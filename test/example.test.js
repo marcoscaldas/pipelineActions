@@ -1,4 +1,6 @@
 // test/example.test.js //
+
+//comentario//
 const assert = require('assert');
 
 describe('Exemplo de Teste', function() {
